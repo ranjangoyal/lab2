@@ -1,0 +1,22 @@
+.heading{
+	font-size:18px;
+	background-color:#55AAFF;
+}
+.heading_items_list{
+	font-size:18px;
+	background-color:#054677;
+	color:#fff;
+}
+.label{
+	font-size:14px;
+	font-weight:bold;
+	color:#000;
+	text-align:left;
+}
+.submit{
+	border:1px solid #066CD2;
+	border-radius:5px;
+	background-color:#55AAFF;
+	color:#fff;
+	padding:2px;
+}
